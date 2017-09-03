@@ -1,3 +1,3 @@
-# web_chat_application
-group chat
-Here is the app you can get start : http://hackathon17/heroku.com/
+# web_chat_application 
+Group chat
+Here is the app you can get start : https://hackathon17.herokuapp.com/
